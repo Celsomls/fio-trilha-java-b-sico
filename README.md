@@ -1,2 +1,2 @@
-# fio-trilha-java-b-sico
+# fio-trilha-java-básico
 Ropsitório para exercícios para as aulas dio.
